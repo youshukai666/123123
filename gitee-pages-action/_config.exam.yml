@@ -1,0 +1,7 @@
+username: user
+password: passwd
+repo: repo
+
+branch: main
+directory: ''
+https: true
